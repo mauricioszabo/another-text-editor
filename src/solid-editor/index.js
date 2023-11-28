@@ -1,7 +1,7 @@
 import { render } from "solid-js/web";
 import { createStore } from "solid-js/store";
 import { Gutter } from "./gutter";
-import { ScrollView } from "./ScrollView";
+import { ScrollView } from "./scrollView";
 
 function TextEditor({ state }) {
   return (
